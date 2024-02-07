@@ -2,6 +2,28 @@
 
 ---
 
+## How to Run MindAily:
+
+1. **Clone the Repository:**
+`git clone https://github.com/Aashish079/Quine-MindAily.git`
+
+2. **Navigate to the Project Directory:**
+`cd mindaily`
+
+3. **Install Dependencies:**
+`npm install`
+
+4. **Start the Development Server:**
+`npm run dev`
+
+5. **Open Your Browser:**
+Visit http://localhost:3000 to access MindAily.
+
+6. **Start Chatting and Connecting:**
+Dive into MindAily's judgment-free space and connect with others to share and support each other through life's complexities.
+
+---
+
 ## Inspiration:
 
 In the heart of Nepal's prestigious college, PsychePalAI was inspired by the personal struggles of friends, let's say Ram, Shyam, Hari, and Govinda. Faced with academic failure and relationship challenges, they envisioned a platform that transcended judgment—a space where individuals could connect and support each other through life's complexities.
@@ -38,28 +60,6 @@ The journey continues as MindAily evolves to meet the changing mental health lan
 - react
 - react-text-to-speech
 - tailwindcss
-
----
-
-## How to Run MindAily:
-
-1. **Clone the Repository:**
-`git clone https://github.com/Aashish079/Quine-MindAily.git`
-
-2. **Navigate to the Project Directory:**
-`cd mindaily`
-
-3. **Install Dependencies:**
-`npm install`
-
-4. **Start the Development Server:**
-`npm run dev`
-
-5. **Open Your Browser:**
-Visit http://localhost:3000 to access MindAily.
-
-6. **Start Chatting and Connecting:**
-Dive into MindAily's judgment-free space and connect with others to share and support each other through life's complexities.
 
 ---
 
