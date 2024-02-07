@@ -26,7 +26,7 @@ Dive into MindAily's judgment-free space and connect with others to share and su
 
 ## Inspiration:
 
-In the heart of Nepal's prestigious college, PsychePalAI was inspired by the personal struggles of friends, let's say Ram, Shyam, Hari, and Govinda. Faced with academic failure and relationship challenges, they envisioned a platform that transcended judgment—a space where individuals could connect and support each other through life's complexities.
+In the heart of Nepal's prestigious college, MindAIly was inspired by the personal struggles of friends, let's say Ram, Shyam, Hari, and Govinda. Faced with academic failure and relationship challenges, they envisioned a platform that transcended judgment—a space where individuals could connect and support each other through life's complexities.
 
 ## What It Does:
 
